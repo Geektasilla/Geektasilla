@@ -1,16 +1,61 @@
-## Hi there 👋
+# Python Software Developer | SDET | LLM & Platform Engineer
 
-<!--
-**Geektasilla/Geektasilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👤 About Me
+Hi, my name is **Viktoriia**. I am a versatile **Python Developer** and **SDET** with deep expertise in building scalable backend systems, automating infrastructure, and developing AI-driven solutions.
 
-Here are some ideas to get you started:
+I specialize in the full lifecycle of software development: from designing complex **RESTful APIs** and **Data Pipelines** to containerizing applications with **Docker** and managing cloud infrastructure in **AWS** using **Terraform**. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My current focus is **LLM Engineering**, where I build autonomous AI agents and implement **RAG** (Retrieval-Augmented Generation) architectures to solve real-world business challenges.
+
+---
+
+### 🚀 Core Tech Stack
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+---
+
+## 🛠 Technical Skills
+
+### 💻 Backend Development & Architecture
+* **Frameworks:** Django (DRF), Flask, FastAPI.
+* **Databases & ORM:** PostgreSQL, MySQL, MongoDB. Expert in **SQLAlchemy** and **Django ORM**.
+* **Security & Async:** JWT, OAuth2, Pydantic validation, Signals, Async notifications.
+* **Data Engineering:** Building seamless Data Pipelines from DB queries to automated processing.
+
+### 🤖 AI & LLM Engineering
+* **Models & Frameworks:** GPT, BERT, LangChain, RAG (Retrieval-Augmented Generation).
+* **AI Solutions:** Prompt Engineering, Vector Databases, Embeddings, Autonomous AI Agents.
+* **Integrations:** OpenAI API, Hugging Face, Multi-modal models (Whisper, CLIP, DALL-E).
+* **Optimization:** Model Fine-tuning and API performance tuning.
+
+### ☁️ DevOps & Infrastructure
+* **Cloud:** AWS (Administration via CLI & Boto3).
+* **IaC:** Infrastructure automation with **Terraform**.
+* **Containerization:** Docker, Docker Compose, optimized **Multistage Dockerfiles**.
+* **Linux & Git:** Bash scripting, System Administration, Advanced Git (Rebase, Merge, Code Review).
+
+### 🧪 QA Automation (SDET)
+* **Frameworks:** Python + Pytest, Selenium WebDriver (Page Object Model).
+* **Testing:** REST API Automation (Requests), UI Testing, Load Testing, Chrome DevTools.
+* **Methodology:** Deep understanding of Test Design, Regression, and Functional testing.
+* **Reporting:** Allure Reports integration.
+
+---
+
+## 📊 GitHub Activity
+![Geektasilla's GitHub stats](https://github-readme-stats.vercel.app/api?username=Geektasilla&show_icons=true&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Geektasilla&layout=compact&theme=dark&hide_border=true)
+
+---
+
+## 💬 Connect with me
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Geektasilla)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viktoriia-boichenko-4b50313a0/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vb.contact.eu@gmail.com)

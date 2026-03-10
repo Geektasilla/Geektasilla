@@ -45,8 +45,11 @@
 * **Methodology:** Deep understanding of Test Design, Regression, and Functional testing.
 * **Reporting:** Allure Reports integration.
 
+## 💬 Connect with me
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Geektasilla)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viktoriia-boichenko-4b50313a0/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vb.contact.eu@gmail.com)
 ---
-
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Geektasilla&color=F7DF1E&style=for-the-badge&label=PROFILE+VIEWS)
@@ -55,7 +58,4 @@
 
 ---
 
-## 💬 Connect with me
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Geektasilla)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viktoriia-boichenko-4b50313a0/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vb.contact.eu@gmail.com)
+

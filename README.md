@@ -47,12 +47,9 @@
 
 ---
 
-## 📊 GitHub Activity
 <div align="center">
 
-![Repos](https://img.shields.io/badge/Total_Repos-5-3670A0?style=for-the-badge&logo=github)
-![Stars](https://img.shields.io/badge/Total_Stars-0-F7DF1E?style=for-the-badge&logo=reverbnation&logoColor=black)
-![Followers](https://img.shields.io/badge/Followers-0-005571?style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=Geektasilla&color=F7DF1E&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 

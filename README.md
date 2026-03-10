@@ -1,61 +1,60 @@
-# Python Software Developer | SDET | LLM & Platform Engineer
+<div align="center">
 
-## 👤 About Me
-Hi, my name is **Viktoriia**. I am a versatile **Python Developer** and **SDET** with deep expertise in building scalable backend systems, automating infrastructure, and developing AI-driven solutions.
+# 👋 Привет, я Виктория!
 
-I specialize in the full lifecycle of software development: from designing complex **RESTful APIs** and **Data Pipelines** to containerizing applications with **Docker** and managing cloud infrastructure in **AWS** using **Terraform**. 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7DF1E&center=true&vCenter=true&width=600&lines=Python+Software+Developer;QA+Automation+Engineer;LLM+%26+Platform+Engineer" alt="Typing SVG" />
 
-My current focus is **LLM Engineering**, where I build autonomous AI agents and implement **RAG** (Retrieval-Augmented Generation) architectures to solve real-world business challenges.
-
----
-
-### 🚀 Core Tech Stack
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+</div>
 
 ---
 
-## 🛠 Technical Skills
+## 👱‍♀️ About Me
+Я — **Python-разработчица** и **SDET** с глубоким опытом в создании масштабируемых бэкенд-систем, автоматизации инфраструктуры и разработке решений на базе ИИ.
 
-### 💻 Backend Development & Architecture
-* **Frameworks:** Django (DRF), Flask, FastAPI.
-* **Databases & ORM:** PostgreSQL, MySQL, MongoDB. Expert in **SQLAlchemy** and **Django ORM**.
-* **Security & Async:** JWT, OAuth2, Pydantic validation, Signals, Async notifications.
-* **Data Engineering:** Building seamless Data Pipelines from DB queries to automated processing.
+Специализируюсь на полном цикле разработки: от проектирования сложных **RESTful API** и **Data Pipelines** до контейнеризации приложений в **Docker** и управления облачной инфраструктурой в **AWS** с помощью **Terraform**.
 
-### 🤖 AI & LLM Engineering
-* **Models & Frameworks:** GPT, BERT, LangChain, RAG (Retrieval-Augmented Generation).
-* **AI Solutions:** Prompt Engineering, Vector Databases, Embeddings, Autonomous AI Agents.
-* **Integrations:** OpenAI API, Hugging Face, Multi-modal models (Whisper, CLIP, DALL-E).
-* **Optimization:** Model Fine-tuning and API performance tuning.
+Мой текущий фокус — **LLM Engineering**: создание автономных ИИ-агентов и внедрение архитектур **RAG** (Retrieval-Augmented Generation) для решения реальных бизнес-задач.
+
+---
+
+## 🛠 Technical Skills & Expertise
+
+### 🚀 Backend & AI Engineering
+* **Languages:** Python (Advanced OOP, Asyncio), SQL (PostgreSQL, MySQL)
+* **AI/LLM:** LangChain, RAG, Prompt Engineering, Vector Databases, OpenAI API
+* **Frameworks:** FastAPI, Django (DRF), Flask, Pydantic, SQLAlchemy
+
+***
 
 ### ☁️ DevOps & Infrastructure
-* **Cloud:** AWS (Administration via CLI & Boto3).
-* **IaC:** Infrastructure automation with **Terraform**.
-* **Containerization:** Docker, Docker Compose, optimized **Multistage Dockerfiles**.
-* **Linux & Git:** Bash scripting, System Administration, Advanced Git (Rebase, Merge, Code Review).
+* **Cloud:** AWS (Administration via CLI & Boto3)
+* **IaC:** Infrastructure automation with **Terraform**
+* **Containerization:** Docker, Docker Compose, Multistage Dockerfiles
+* **Linux & Git:** Bash scripting, Advanced Git (Rebase, Merge)
+
+***
 
 ### 🧪 QA Automation (SDET)
-* **Frameworks:** Python + Pytest, Selenium WebDriver (Page Object Model).
-* **Testing:** REST API Automation (Requests), UI Testing, Load Testing, Chrome DevTools.
-* **Methodology:** Deep understanding of Test Design, Regression, and Functional testing.
-* **Reporting:** Allure Reports integration.
+* **Frameworks:** Python + Pytest, Selenium WebDriver (POM)
+* **Testing:** REST API Automation, UI Testing, Load Testing
+* **Methodology:** Test Design, Regression, and Functional testing
+* **Reporting:** Allure Reports
 
 ---
 
 ## 📊 GitHub Activity
-![Geektasilla's GitHub stats](https://github-readme-stats.vercel.app/api?username=Geektasilla&show_icons=true&theme=dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Geektasilla&layout=compact&theme=dark&hide_border=true)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Geektasilla&show_icons=true&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geektasilla&layout=compact&theme=dark&hide_border=true" />
+</div>
 
 ---
 
 ## 💬 Connect with me
+<div align="center">
+
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Geektasilla)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viktoriia-boichenko-4b50313a0/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vb.contact.eu@gmail.com)
+
+</div>

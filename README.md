@@ -48,9 +48,13 @@
 ---
 
 ## 📊 GitHub Activity
-![Geektasilla's GitHub stats](https://github-readme-stats.vercel.app/api?username=Geektasilla&show_icons=true&theme=dark&hide_border=true)
+<div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Geektasilla&layout=compact&theme=dark&hide_border=true)
+![Repos](https://img.shields.io/badge/Total_Repos-5-3670A0?style=for-the-badge&logo=github)
+![Stars](https://img.shields.io/badge/Total_Stars-0-F7DF1E?style=for-the-badge&logo=reverbnation&logoColor=black)
+![Followers](https://img.shields.io/badge/Followers-0-005571?style=for-the-badge)
+
+</div>
 
 ---
 

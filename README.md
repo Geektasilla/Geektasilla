@@ -17,33 +17,6 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
----
-
-## 🛠 Technical Skills
-
-### 💻 Backend Development & Architecture
-* **Frameworks:** Django (DRF), Flask, FastAPI.
-* **Databases & ORM:** PostgreSQL, MySQL, MongoDB. Expert in **SQLAlchemy** and **Django ORM**.
-* **Security & Async:** JWT, OAuth2, Pydantic validation, Signals, Async notifications.
-* **Data Engineering:** Building seamless Data Pipelines from DB queries to automated processing.
-
-### 🤖 AI & LLM Engineering
-* **Models & Frameworks:** GPT, BERT, LangChain, RAG (Retrieval-Augmented Generation).
-* **AI Solutions:** Prompt Engineering, Vector Databases, Embeddings, Autonomous AI Agents.
-* **Integrations:** OpenAI API, Hugging Face, Multi-modal models (Whisper, CLIP, DALL-E).
-* **Optimization:** Model Fine-tuning and API performance tuning.
-
-### ☁️ DevOps & Infrastructure
-* **Cloud:** AWS (Administration via CLI & Boto3).
-* **IaC:** Infrastructure automation with **Terraform**.
-* **Containerization:** Docker, Docker Compose, optimized **Multistage Dockerfiles**.
-* **Linux & Git:** Bash scripting, System Administration, Advanced Git (Rebase, Merge, Code Review).
-
-### 🧪 QA Automation (SDET)
-* **Frameworks:** Python + Pytest, Selenium WebDriver (Page Object Model).
-* **Testing:** REST API Automation (Requests), UI Testing, Load Testing, Chrome DevTools.
-* **Methodology:** Deep understanding of Test Design, Regression, and Functional testing.
-* **Reporting:** Allure Reports integration.
 
 ## 💬 Connect with me
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Geektasilla)

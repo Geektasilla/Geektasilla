@@ -47,7 +47,11 @@ Having a strong background in QA (End-to-End testing, CI/CD, Page Object Model) 
 
 ### 🛠️ Featured Projects
 
-*   [**Polako_E2E**](https://github.com/Geektasilla/Polako_E2E) — A scalable End-to-End test automation framework built from scratch using Python, Playwright, and Pytest. It implements the Page Object Model (POM) pattern for UI resiliency and integrates seamlessly with GitHub Actions for continuous testing.
+*   [**django-rental-service**](https://github.com/Geektasilla/django-rental-service) — A scalable real estate rental platform built with Django and DRF. Features role-based access control, advanced booking management, and built-in search and view analytics.
+
+*   [**AQA-demoblaze-com**](https://github.com/Geektasilla/AQA-demoblaze-com) — Automated QA framework for an e-commerce site using Playwright and TypeScript, covering functional smoke and regression testing with GitHub Actions CI integration.
+
+*   [**Polako_E2E**](https://github.com/Geektasilla/Polako_E2E) — Team-built End-to-End test automation framework (first practice project) using Python, Playwright, and Pytest. Contributed across the full stack: designed the Page Object Model architecture, wrote test scenarios, and set up the CI/CD pipeline via GitHub Actions.
 
 ---
 

@@ -13,7 +13,7 @@ Based in Heidelberg, Germany · open to Python Developer, QA Automation and QA L
 
 ### 🛠️ Featured projects
 
-- [**tinyllama-customer-support-lora**](https://github.com/Geektasilla/tinyllama-customer-support-lora) — LoRA fine-tuning of TinyLlama-1.1B on a laptop CPU as a customer-support assistant; before/after evaluation on 81 held-out requests (test loss 1.70 → 0.86, ROUGE-L 0.19 → 0.30) and a chat demo
+- [**tinyllama-customer-support-lora**](https://github.com/Geektasilla/tinyllama-customer-support-lora) — LoRA fine-tuning of TinyLlama-1.1B on a laptop CPU as a customer-support assistant, plus BM25 retrieval (RAG) over a fictional shop policy; policy-grounded v2 adapter answers 15/16 held-out policy questions correctly (v1: 2/16, base: 11/16); manual test protocol and chat demo
 - [**django-rental-service**](https://github.com/Geektasilla/django-rental-service) — REST API for a rental marketplace: Django, DRF, JWT, Celery + Redis, AI moderation, 65+ tests, Docker, deployed on AWS
 - [**QA_Vacancy_Scout**](https://github.com/Geektasilla/QA_Vacancy_Scout) — Telegram bot that finds fresh QA vacancies: LLM extracts structured JSON from job boards, de-duplication, scheduled GitHub Actions, 31 tests with mocked OpenAI & Telegram
 - [**AQA-demoblaze-com**](https://github.com/Geektasilla/AQA-demoblaze-com) — Playwright + TypeScript E2E framework: Page Objects, fixtures, 48 cross-browser runs in nightly CI

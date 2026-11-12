@@ -14,6 +14,7 @@ Based in Heidelberg, Germany · open to Python Developer, QA Automation and QA L
 ### 🛠️ Featured projects
 
 - [**django-rental-service**](https://github.com/Geektasilla/django-rental-service) — REST API for a rental marketplace: Django, DRF, JWT, Celery + Redis, AI moderation, 65+ tests, Docker, deployed on AWS
+- [**QA_Vacancy_Scout**](https://github.com/Geektasilla/QA_Vacancy_Scout) — Telegram bot that finds fresh QA vacancies: LLM extracts structured JSON from job boards, de-duplication, scheduled GitHub Actions, 31 tests with mocked OpenAI & Telegram
 - [**AQA-demoblaze-com**](https://github.com/Geektasilla/AQA-demoblaze-com) — Playwright + TypeScript E2E framework: Page Objects, fixtures, 48 cross-browser runs in nightly CI
 - [**Polako_E2E**](https://github.com/Romapsp/Polako_E2E) — team E2E project with Python, Playwright and Pytest: Page Object architecture, test scenarios, GitHub Actions pipeline
 - [**selenium-autotests**](https://github.com/Geektasilla/selenium-autotests) — UI test suite with Python, Selenium and Pytest

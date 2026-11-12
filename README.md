@@ -19,6 +19,7 @@ Based in Heidelberg, Germany · open to Python Developer, QA Automation and QA L
 - [**Polako_E2E**](https://github.com/Romapsp/Polako_E2E) — team E2E project with Python, Playwright and Pytest: Page Object architecture, test scenarios, GitHub Actions pipeline
 - [**swag-labs-playwright-pytest**](https://github.com/Geektasilla/swag-labs-playwright-pytest) — Python + Playwright + Pytest UI framework: 47 tests × 3 browsers, 9 bugs found and documented, [live Allure report](https://geektasilla.github.io/swag-labs-playwright-pytest/)
 - [**selenium-autotests**](https://github.com/Geektasilla/selenium-autotests) — UI test suite with Python, Selenium and Pytest
+- [**linux-game**](https://github.com/Geektasilla/linux-game) — SUDOMAZO, a terminal quiz on Linux commands with sarcastic commentary from 9 TV universes: Python, RU/EN, 84 tests, CI on Linux / Windows / macOS
 
 ---
 

@@ -1,25 +1,13 @@
 # Hi, I'm Viktoriia 👋
 
-### QA Lead · QA Automation Engineer · Python
+### Python Developer · QA Automation Engineer · QA Lead
 
-I build test automation that teams can rely on, and backend services that are built to be tested.
-Based in Heidelberg, Germany · open to QA Automation / QA Lead roles.
+I build backend services in Python and the test automation that keeps them reliable.
+Based in Heidelberg, Germany · open to Python Developer, QA Automation and QA Lead roles.
 
 - 🧭 **QA Lead @ Merloop** (AI platform for the EU Digital Product Passport): led a 6-person QA team in weekly sprints, owned the QA lifecycle from test strategy to release sign-off, tested AI-assistant features and e-commerce integrations, reported QA status to the CEO
 - 🤖 **QA Automation Engineer @ Polako Hedonist** (event & ticketing platform): Python + Playwright E2E tests for payments and ticket generation, Page Object Model, GitHub Actions CI, 100+ test cases in Qase.io
 - 🎓 **Python Developer + AI**, IT Career Hub, Berlin: 1,434 hours, graduated "sehr gut" in Python, Automation QA, Databases, Docker & Cloud
-
----
-
-### 🛠️ Featured projects
-
-| Project | What it shows |
-|---|---|
-| [**django-rental-service**](https://github.com/Geektasilla/django-rental-service)<br>[![Tests](https://github.com/Geektasilla/django-rental-service/actions/workflows/tests.yml/badge.svg)](https://github.com/Geektasilla/django-rental-service/actions/workflows/tests.yml) | Production-style REST API: Django + DRF, JWT, 5 roles with object-level permissions, booking state machine guarded by DB triggers, Celery + Redis, AI moderation (OpenAI + AWS Rekognition), GDPR anonymization, EN/DE i18n. **65+ tests**, Docker, nginx + Let's Encrypt, deployed on AWS EC2 |
-| [**AQA-demoblaze-com**](https://github.com/Geektasilla/AQA-demoblaze-com)<br>[![E2E](https://github.com/Geektasilla/AQA-demoblaze-com/actions/workflows/playwright-tests.yml/badge.svg)](https://github.com/Geektasilla/AQA-demoblaze-com/actions/workflows/playwright-tests.yml) | Playwright + TypeScript E2E framework: Page & Component Objects, custom fixtures, **48 cross-browser runs** (Chromium / Firefox / WebKit), nightly CI, test plan & checklist. README documents how flaky tests were diagnosed and fixed |
-| [**Polako_E2E**](https://github.com/Romapsp/Polako_E2E) (team project) | Python + Playwright + Pytest E2E suite for a real ticketing product. My part: Page Object architecture, test scenarios, GitHub Actions pipeline — [28 commits, 12 pull requests](https://github.com/Romapsp/Polako_E2E/pulls?q=is%3Apr+author%3AGeektasilla) |
-| [**selenium-autotests**](https://github.com/Geektasilla/selenium-autotests) | Python + Selenium + Pytest UI suite: navigation, language switch, end-to-end form flow, element-level screenshots |
-| [**Movie-Search-Galaxy**](https://github.com/Geektasilla/Movie-Search-Galaxy) | Python console app: MySQL (Sakila) search with pagination, query statistics stored in MongoDB |
 
 ---
 
